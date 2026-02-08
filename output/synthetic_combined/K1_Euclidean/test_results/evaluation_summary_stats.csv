@@ -1,0 +1,4 @@
+Filename,Total Count,Predicted,New Assignments,Wrong Predictions,Selected_7T,Selected_7T_pct,Selected_21T,Selected_21T_pct,Selected_SYN,Selected_SYN_pct,Model Version
+Table_Pahokee_River_Fulvic_Acid.csv,938,878,57,3,629,67.06,215,22.92,94,10.02,Model-Synthetic_K1_Euclidean
+Table_Suwannee_River_Fulvic_Acid_2_v2.csv,1431,1416,15,0,1170,81.76,223,15.58,38,2.66,Model-Synthetic_K1_Euclidean
+Table_Suwannee_River_Fulvic_Acid_3.csv,1678,1644,33,1,1386,82.6,222,13.23,70,4.17,Model-Synthetic_K1_Euclidean

@@ -1,0 +1,4 @@
+Filename,Total Count,Predicted,New Assignments,Wrong Predictions,Selected_7T,Selected_7T_pct,Selected_21T,Selected_21T_pct,Model Version
+Table_Pahokee_River_Fulvic_Acid.csv,938,842,0,96,666,71.0,272,29.0,Model-L1-L3_K3_Manhattan
+Table_Suwannee_River_Fulvic_Acid_2_v2.csv,1431,1385,7,39,1186,82.88,245,17.12,Model-L1-L3_K3_Manhattan
+Table_Suwannee_River_Fulvic_Acid_3.csv,1678,1619,3,56,1418,84.51,260,15.49,Model-L1-L3_K3_Manhattan
